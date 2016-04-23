@@ -1,1 +1,1 @@
-var a = 'a.js';
+var a = 'a.js' + '1';
